@@ -13,8 +13,9 @@ textarea{
 
 p{
   font-size: 75%;
+  border-style: dotted;
 }
 
 footer{
-  background-color: red;
+  background-color: purple;
 }
