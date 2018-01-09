@@ -1,0 +1,16 @@
+body{
+  background-color: aqua;
+
+}
+
+h1{
+  font-family: sans-serif;
+}
+
+textarea{
+  background-color: yellow;
+}
+
+p{
+  font-size: 150%;
+}
